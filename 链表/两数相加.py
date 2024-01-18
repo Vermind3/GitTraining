@@ -23,3 +23,5 @@ class Solution:
                 l2 = l2.next
 
         return head.next
+    
+    #为测试git提交一次修改，顺便记一下，//表示取10位之前的，%10表示取10位之后的

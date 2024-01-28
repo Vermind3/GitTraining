@@ -17,6 +17,6 @@ class Solution:
             ans = max(ans, rk - i + 1)
         return ans
 
-冲突2
+完全冲突
 
 

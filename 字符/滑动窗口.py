@@ -1,3 +1,4 @@
+我来试试如果有人提交了更改，我的更改跟他的有冲突，怎么办
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         # 哈希集合，记录每个字符是否出现过

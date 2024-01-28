@@ -14,4 +14,3 @@ class Solution:
         return dummy.next
 
 快慢指针，我其实用的不是很好，我觉得我需要学习一下双指针
-试试pull

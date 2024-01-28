@@ -17,11 +17,5 @@ class Solution:
             # 第 i 到 rk 个字符是一个极长的无重复字符子串
             ans = max(ans, rk - i + 1)
         return ans
-<<<<<<< HEAD
-这次来试试在本地处理冲突
-=======
-    
-再来一次，再在本地处理一次冲突
->>>>>>> c67fbd8fc8f24ed98cf142e8823af9cf961f5a66
 
 

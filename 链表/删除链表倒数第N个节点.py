@@ -16,3 +16,7 @@ class Solution:
 快慢指针，我其实用的不是很好，我觉得我需要学习一下双指针
 破解push pull困局
 再次提交一个新信息
+我好像快明白add . commit -m" shsidhis" push pull 的关系了
+jcihixh\jixixh
+jixu1
+jixu1

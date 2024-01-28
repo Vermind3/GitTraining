@@ -17,7 +17,6 @@ class Solution:
             # 第 i 到 rk 个字符是一个极长的无重复字符子串
             ans = max(ans, rk - i + 1)
         return ans
-    
-好像没什么问题，他不会要求我们在git hub上处理冲突，而只是会在本地处理冲突
+这次来试试在本地处理冲突
 
 

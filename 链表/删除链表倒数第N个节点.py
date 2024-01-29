@@ -14,27 +14,5 @@ class Solution:
         return dummy.next
 
 快慢指针，我其实用的不是很好，我觉得我需要学习一下双指针
-破解push pull困局
-再次提交一个新信息
-我好像快明白add . commit -m" shsidhis" push pull 的关系了
-jcihixh\jixixh
-jixu1
-jixu1
-这个意思是让我就在这里继续编程吗/
-为什么不动，为什么现实没有新的更改
-再拉一次
-我要拉第二次了
-我感觉都懂了，而且都实现了，但是还是不是太清晰
 
-我这边再写一些，然后看看怎么合并
-
-caonima再来一次，这次只需要简单的pull,然后在pull的基础上修改并提交就行
-
-所以实际上，pull是一个很简单的事，在没有冲突的情况下
-
-简单pul一下吧
-
-我如果不点加号而是直接save呢
-
-pullllllllll
 

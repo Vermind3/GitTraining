@@ -1,3 +1,5 @@
+import pandas as pd
+
 elementDict = {
     'C' : 12,
     'O' : 16,
@@ -9,7 +11,6 @@ elementDict = {
     'I' : 127
 
 }
-
 
 def refineDict(user_input, dictionary):
     new_dict = {char: dictionary.get(char, None) for char in user_input}
@@ -96,6 +97,11 @@ def peak2Formulas(peak : int, elementDict: dict) -> list:
     formulas = count_elements(formulas)
     return formulas
 ##集大成
+
+###def selectThePeak(df)
+
+###file_path = 'your_file.csv' 
+###df = pd.read_csv(file_path)
 
 ###test
 peakList = [15, 18, 56, 31, 29, 30]
